@@ -92,5 +92,14 @@ export  $initHighlight;
 |LINUX  |TORVALDS |3484747883|
 |       |         |          | 
 
+# _Citas_
+
+**A continuacion veremos una cita:**
+>Esta es la cita
+
+_Para separar una cita de otra debemos dar doble_ **enter**
+
+>Doble enter
+
 
 
