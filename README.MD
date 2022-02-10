@@ -5,4 +5,17 @@
 ##### Cabecera H5
 ###### Cabecera H5
 ###### Cabecera H6
-este es un archivo readme,para el repositorio de GIT
+
+Underline 1
+---------------------
+
+Underline2
+=====================
+
+formato *italika*
+formato _italika_
+
+formato **bold**
+formato __bold__
+formato ~~tachado~~
+
