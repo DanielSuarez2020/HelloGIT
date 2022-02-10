@@ -33,3 +33,17 @@ Underline2
 -  Esto es una lista desordenada
 
 
+# _Links_
+
+- <a href="http://www.google.com">Esto es un link en HTML</a>
+
+- [Esto es un link en MarkDown](http://www.google.com)
+
+- [Esto es un link al Index](index.html)
+
+# _Imagenes_
+
+![Logo GIT-hub-kraken](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2My22i_pQSb-MEisAENjVCwCTLtzCgPGGHg&usqp=CAU)
+
+
+
