@@ -1,0 +1,1 @@
+este es un archivo readme,para el repositorio de GIT
