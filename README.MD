@@ -85,5 +85,12 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ```
+# _Tablas_
+
+|NOMBRE |APELLIDO |DOCUMENTO |
+|-------|---------|----------|
+|LINUX  |TORVALDS |3484747883|
+|       |         |          | 
+
 
 
