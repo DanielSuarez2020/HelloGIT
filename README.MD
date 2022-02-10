@@ -115,5 +115,11 @@ Este es un texto dividido por guiones bajos
 ___
 
 
+# _Saltos de linea_
 
+**Se debe de dar doble enter,donde se quiere separar**
+
+Este es un parrafo.
+
+Este es otro parrafo.
 
