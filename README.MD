@@ -101,5 +101,19 @@ _Para separar una cita de otra debemos dar doble_ **enter**
 
 >Doble enter
 
+# _Lineas divisorias_
+
+Este es un texto dividido por guiones
+
+---
+
+Este es un texto dividido por asteriscos
+
+***
+
+Este es un texto dividido por guiones bajos
+___
+
+
 
 
